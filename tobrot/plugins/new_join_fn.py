@@ -38,7 +38,7 @@ async def help_message_f(client, message):
     #message_id = 99
     # display the /help
     
-    await message.reply_text("""No one gonna HELP here!! Leech if you KNOW :) .\n\n PORN LEECH = Instant BAN""", disable_web_page_preview=True)
+    await message.reply_text("""Welcome To Torrent Group Join @S4HChannel and @Givenaway 😎 \n\n <b><u>I Can Leech Files To Telegram</u></b> \n\n Do One Leech & Wait For It To Complete Before Doing Another \n\n <a href="https://t.me/s4htorrent/24551">⚠ READ GROUP PINNED MESSAGE RULES ⚠</a>""", disable_web_page_preview=True)
 
 
 async def rename_message_f(client, message):
